@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Event Tracking</string>
+    <string name="username_hint">Enter Email Address</string>
+    <string name="login_btn_txt1">Login</string>
+    <string name="login_btn_txt2">Register</string>
+    <string name="password_hint">Password</string>
+</resources>
